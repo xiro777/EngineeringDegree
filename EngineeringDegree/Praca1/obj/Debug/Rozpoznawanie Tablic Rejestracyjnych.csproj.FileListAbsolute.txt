@@ -1,0 +1,168 @@
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x64\tesseract.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x86\tesseract.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x64\concrt140.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x64\cvextern.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x64\msvcp140.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x64\vcruntime140.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x86\concrt140.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x86\cvextern.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x86\msvcp140.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x86\vcruntime140.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x86\leptonica-1.80.0.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x86\tesseract41.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x64\leptonica-1.80.0.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\x64\tesseract41.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Pliki\eng.traineddata
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Pliki\haarcascade_frontalface_default.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Controls.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Imaging.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Math.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Video.DirectShow.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Video.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Vision.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Emgu.CV.UI.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Emgu.CV.World.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\MySql.Data.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\MySql.Web.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\OpenCvSharp.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Patagames.Ocr.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\ZedGraph.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Google.Protobuf.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Zstandard.Net.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Renci.SshNet.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\System.Memory.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\System.Buffers.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\System.Numerics.Vectors.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Controls.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Imaging.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Math.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Video.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Video.DirectShow.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\AForge.Vision.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Emgu.CV.UI.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Emgu.CV.World.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\MySql.Data.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\MySql.Web.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Patagames.Ocr.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\ZedGraph.xml
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\de\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\es\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\it\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Rozpoznawanie Tablic Rejestracyjnych.csprojAssemblyReference.cache
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.Widoki.Automatyczna_Detekcja.resources
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.Form1.resources
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.PanelSms.resources
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.PanelUzytkownika.resources
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.Properties.Resources.resources
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.DodajZdjecie.resources
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Rozpoznawanie Tablic Rejestracyjnych.csproj.GenerateResource.cache
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Rozpoznawanie Tablic Rejestracyjnych.csproj.CoreCompileInputs.cache
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Rozpoznawanie Tablic Rejestracyjnych.csproj.CopyComplete
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Praca1.exe.config
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Praca1.exe
+D:\Studia\Programy Visual\Praca1\Praca1\bin\Debug\Praca1.pdb
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.exe.config
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.exe
+D:\Studia\Programy Visual\Praca1\Praca1\obj\Debug\Praca1.pdb
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x64\tesseract.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x86\tesseract.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x64\concrt140.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x64\cvextern.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x64\msvcp140.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x64\vcruntime140.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x86\concrt140.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x86\cvextern.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x86\msvcp140.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x86\vcruntime140.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x86\leptonica-1.80.0.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x86\tesseract41.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x64\leptonica-1.80.0.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\x64\tesseract41.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Pliki\eng.traineddata
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Pliki\haarcascade_frontalface_default.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Praca1.exe.config
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Praca1.exe
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Praca1.pdb
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Controls.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Imaging.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Math.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Video.DirectShow.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Video.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Vision.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Emgu.CV.UI.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Emgu.CV.World.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Patagames.Ocr.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\ZedGraph.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Google.Protobuf.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Zstandard.Net.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Renci.SshNet.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\System.Memory.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\System.Buffers.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\System.Numerics.Vectors.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Controls.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Imaging.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Math.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Video.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Video.DirectShow.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\AForge.Vision.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Emgu.CV.UI.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Emgu.CV.World.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\MySql.Data.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\MySql.Web.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\Patagames.Ocr.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\ZedGraph.xml
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\de\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\es\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\it\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Rozpoznawanie Tablic Rejestracyjnych.csprojAssemblyReference.cache
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.exe.config
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.Widoki.Automatyczna_Detekcja.resources
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.Form1.resources
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.PanelSms.resources
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.PanelUzytkownika.resources
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.Properties.Resources.resources
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.DodajZdjecie.resources
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Rozpoznawanie Tablic Rejestracyjnych.csproj.GenerateResource.cache
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Rozpoznawanie Tablic Rejestracyjnych.csproj.CopyComplete
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.exe
+D:\Studia\Inżynier\Praca1\Praca1\obj\Debug\Praca1.pdb
